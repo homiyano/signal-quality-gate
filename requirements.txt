@@ -1,0 +1,7 @@
+# split_speakers_pipeline.py — tested with Python 3.12.3
+sherpa-onnx==1.13.8
+soundfile==0.14.0
+librosa==1.0.0
+numpy==2.4.4
+soxr==1.1.0
+scipy==1.17.1
